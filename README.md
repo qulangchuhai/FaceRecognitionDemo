@@ -1,2 +1,3 @@
-# FaceRecognitionDemo
-人脸识别示例Demo
+# FaceRecognitionDemo-iOS
+iOS人脸识别示例Demo
+
